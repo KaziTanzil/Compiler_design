@@ -1,5 +1,0 @@
-void Hello){}
-void Hello(){ return 0;}
-int hello(){ return 0;}
-SK(){ return 0;}
-int tan(){}
